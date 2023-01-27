@@ -6,5 +6,5 @@
   
 */
 
-"app.title" = "Crowdin POC.";
-"login.signup.title" = "Login";
+"app.title" = "POC de Crowdin.";
+"login.signup.title" = "Ingresar";

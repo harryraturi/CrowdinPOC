@@ -1,0 +1,3 @@
+files:
+  - source: /CrowdinPOC/SupportingFiles/Localization/Localizable.strings
+    translation: /CrowdinPOC/SupportingFiles/Localization/%osx_code%/%original_file_name%

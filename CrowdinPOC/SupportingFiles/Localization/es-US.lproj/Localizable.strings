@@ -1,0 +1,10 @@
+/* 
+  Localization.strings
+  CrowdinPOC
+
+  Created by Harish Prasad Rathuri on 25/01/23.
+  
+*/
+
+"app.title" = "POC de Crowdin.";
+"login.signup.title" = "Ingresar";
